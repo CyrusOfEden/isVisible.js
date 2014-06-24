@@ -47,6 +47,6 @@ The above will only return `true` if the top edge of `.awesome-thing` more than 
 With jQuery, just provide the `object` to `$.fn.isVisible`:
 ```javascript
 $(".awesome-thing").isVisible({ top: 20, right: 20 }); // returns true or false
-```;
+```
 
 Available options are `top`, `right`, `bottom`, and `left`.
