@@ -7,12 +7,12 @@ A quick JavaScript tool to check if an element is visible within the viewport.
 Getting Started
 ---------------
 
-Include `visibility.js` in your page:
+Include `isvisible.js` in your page:
 ```html
-<script src="/path/to/visibility.js"></script>
+<script src="/path/to/isvisible.js"></script>
 ```
 
-If you're using jQuery, including `jquery.visibility.js` after jQuery:
+If you're using jQuery, including `jquery.isvisible.js` after jQuery:
 ```html
 <script src="/path/to/jquery.js"></script>
 <script src="/path/to/jquery.isvisible.js"></script>
